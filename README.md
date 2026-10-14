@@ -1,4 +1,5 @@
 # Tableau-Arthritis-Visualization
+
 For this project, we had to Use the "Chronic Disease Indicators Data" dataset to create a dashboard of CDC data that includes at least three different visualizations. I decided to make my visualizations about arthritis levels in adult men and women. The main visual would be a hex map that shows the arthritis levels in the U.S. states, as well as a few other locations. The two other visuals would compare arthritis levels between adult  men and women. 
 
         I started the visualizations by making my hex map. I made a map that had all of the states and a few other locations before making it in the hex format. I then set it up to have all of the varying levels of arthritis. The arthritis rate was displayed by how blue each respective location was. I then made sure the locations were spaced out well and moved on to the other two visuals. One of the other visuals was a bar chart with men and women as the two respective bars. The other was a timeline comparing men and women’s rates of arthritis over time. 
